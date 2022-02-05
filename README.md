@@ -12,3 +12,4 @@
 - (강의) JPA Hint & Lock
 - (강의) 사용자 정의 리포지토리 구현, Auditing, 도메인 클래스 컨버터, Web 페이징과 정렬
 - (강의) 스프링 데이터 JPA 구현체 분석, 새로운 엔티티를 구별하는 방법 
+- (정리) 순수 JPA, 스프링 데이터 JPA를 사용한 Audit(https://ojt90902.tistory.com/711)
