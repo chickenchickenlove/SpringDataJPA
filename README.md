@@ -19,3 +19,4 @@
 
 - (정리) 순수 JPA, 스프링 데이터 JPA를 사용한 페이징. Pageable 객체를 이용한 페이징(https://ojt90902.tistory.com/716)
 - (정리) JpaRepository Interface의 구현체 확인 정리(https://ojt90902.tistory.com/715)
+- (정리) Pageable 객체 Spring Controller Paramter 바인딩으로 받아서 처리하기 (https://ojt90902.tistory.com/717)
