@@ -14,3 +14,8 @@
 - (강의) 스프링 데이터 JPA 구현체 분석, 새로운 엔티티를 구별하는 방법 
 - (정리) 순수 JPA, 스프링 데이터 JPA를 사용한 Audit(https://ojt90902.tistory.com/711)
 - (정리) 사용자 정의 Repository를 JPA 인터페이스 REPOSITORY에서 사용할 수 있도록 등록(https://ojt90902.tistory.com/712)
+
+# 22.02.06
+
+- (정리) 순수 JPA, 스프링 데이터 JPA를 사용한 페이징. Pageable 객체를 이용한 페이징(https://ojt90902.tistory.com/716)
+- (정리) JpaRepository Interface의 구현체 확인 정리(https://ojt90902.tistory.com/715)
